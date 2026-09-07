@@ -1,0 +1,10 @@
+{
+  "name": "Algebramat - 1-11 Sinf Interaktiv Algebra Platformasi",
+  "description": "1-sinfdan 11-sinfgacha bo'lgan barcha algebra va matematika qonunlari, bosqichma-bosqich kalkulyatorlar, aql charxlovchi testlar, ob-havoga moslashuvchan fon va audio effektlar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
